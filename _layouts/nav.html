@@ -1,0 +1,35 @@
+<nav class="bg-black py-2">
+    <div class="nav container py-3">
+        <div class="logo flex justify-center items-center">
+            <img class="mr-2" src="https://avatars.githubusercontent.com/u/66210356?v=4" alt="Mitch Chanza">
+            <span> {{site.title}} </span>
+        </div>
+        <div class="links">
+            {% for nav in site.data.nav.nav %}
+            <a href="#{{nav}}">{{nav}}</a>
+            {% endfor %}
+        </div>
+    </div>
+</nav>
+
+{{content}}
+
+<footer class="bg-black ">
+  <div class="flex justify-between items-center container">
+    <div class="logo w-5">
+        <div class="logo flex p-2 items-center">
+            <img class="mr-2" src="https://avatars.githubusercontent.com/u/66210356?v=4" alt="Mitch Chanza">
+        </div>
+        <p class="text-gray-100 text-lg">{{page.title}}</p>
+    </div>
+    <div class="links">
+        {% for nav in site.data.nav.footer %}
+        <a href="#{{nav}}">{{nav}}</a>
+        {%endfor%}
+    </div>
+  </div>
+  <hr>
+  <div class="socials flex justify-right">
+
+  </div>
+</footer>

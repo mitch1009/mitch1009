@@ -1,0 +1,33 @@
+$base-colors: (
+    "white": #FFFFFF,
+    "black": #000000,
+    "gray": #808080,
+    "red": #FF0000,
+    "green": #008000,
+    "blue": #0000FF,
+    "yellow": #FFFF00,
+    "purple": #800080,
+    "orange": #FFA500
+);
+
+@each $name,
+$color in $base-colors {
+    .text-#{$name} {
+        color: $color;
+    }
+
+    .bg-#{$name} {
+        background-color: $color;
+    }
+
+    @if (name !=white) {
+        @for $i from 0 to 9 {
+            .bg-#{$name}-#{$i*100} {
+                background-color: mix(white, $color, $i*10%);
+            }
+            .bg-#{$name}-d#{$i*100}{
+                background-color: mix(black, $color, $i *10%);
+            }
+        }
+    }
+}

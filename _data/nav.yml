@@ -1,0 +1,9 @@
+nav:
+  - home
+  - about
+  - contact
+  - blog
+footer:
+  - terms
+  - privacy
+  - contact

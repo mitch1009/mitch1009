@@ -1,0 +1,5 @@
+url: "https://mitch.guru" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+email: dev@mitch.guru
+title: "Mitch Guru" # the name of your site, e.g. ACME Corp.
+description: "Hello, my name is Mitch and I am a fullstack developer with 7 years of experience. I have a strong background in both frontend and backend development, and have worked on a wide range of projects using a variety of technologies. My expertise includes languages such as JavaScript, HTML, and CSS, as well as frameworks such as React and Angular. I am experienced in working in both agile and waterfall development environments, and am comfortable taking on both individual and team-based projects. I am always looking to learn new technologies and stay up-to-date with industry best practices."

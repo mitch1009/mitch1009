@@ -1,0 +1,117 @@
+$utils: (
+    "l":left,
+    "t":top,
+    "r":right,
+    "b":bottom,
+    "x": x,
+    "y": y
+);
+$sizewidth:(
+
+);
+
+@for $i from 0 to 9 {
+    $sizewidth: map-merge($sizewidth , ($i: $i*10%) );
+}
+
+@each $k ,$v in $sizewidth {
+    .w-#{$k}{
+        width: $v;
+    }
+    .h-#{$k}{
+        height: $v !important;
+    }
+    .vh-#{$k} {
+        height: #{$k*10}vh !important;
+    }
+}
+$sizes: (
+    "xs": 0.25rem,
+    "sm": 0.5rem,
+    "md": .75rem,
+    "lg": 1rem,
+    "xl": 1.25rem
+);
+
+@each $s,$v in $sizes {
+    .text-#{$s} {
+        font-size:$v
+    }
+}
+
+$displays: (
+"center": center,
+"left": left,
+"right": right,
+"start": start,
+"end": end,
+"between": space-between,
+"around": space-around,
+"even": space-evenly
+);
+.flex {
+    display: flex;
+}
+@each $k, $val in $displays {
+    .justify-#{$k} {
+        justify-content: $val;
+    }
+    .items-#{$k} {
+        align-items: $val;
+    }
+}
+@each $name,
+$val in $utils {
+
+    @for $i from 0 to 65 {
+        @if ($name !=x and $name !=y) {
+            .p-#{$i} {
+                padding: #{$i*0.25}
+            }
+
+            .m-#{$i} {
+                margin: #{$i*0.25}
+            }
+
+            .m#{$name}-#{$i} {
+                margin-#{$val}: #{$i*0.25}rem;
+            }
+
+            .-m#{$name}-#{$i} {
+                margin-#{$val}: -#{$i*0.25}rem;
+            }
+
+            .p#{$name}-#{$i} {
+                padding-#{$val}: #{$i*0.25}rem;
+            }
+
+
+            .-p#{$name}-#{$i} {
+                padding-#{$val}: -#{$i*0.25}rem;
+            } 
+        }@else {
+                @if ($name ==x) {
+                    .p#{$name}-#{$i} {
+                        padding-left: #{$i*0.25}rem;
+                        padding-right: #{$i*0.25}rem;
+                    }
+
+                    .m#{$name}-#{$i} {
+                        margin-left: #{$i*0.25}rem;
+                        margin-right: #{$i*0.25}rem;
+                    }
+                } @else {
+                    .p#{$name}-#{$i} {
+                        padding-top: #{$i*0.25}rem;
+                        padding-bottom: #{$i*0.25}rem;
+                    }
+
+                    .m#{$name}-#{$i} {
+                        margin-top: #{$i*0.25}rem;
+                        margin-bottom: #{$i*0.25}rem;
+                    }
+                }
+            }
+        
+    }
+}
