@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Lua and Golang
 - 👯 I’m looking to collaborate on Github
 - 📫 Connect With Me on my socials below
-- ⚡ Fun fact: You cannot cook one grain of rice, unless if you are a singleton 😄
+- ⚡ Fun fact: You cannot cook one grain of rice, unless you are a singleton 😄
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
