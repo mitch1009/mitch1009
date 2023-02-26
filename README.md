@@ -1,67 +1,61 @@
-### Hi there I am Mitch Chanza👋
-- 🔭 I’m currently working on open source [atoria css framework](https://atoria.site)
-- 🌱 I’m currently learning Lua and Golang
-- 👯 I’m looking to collaborate on Github
-- 📫 Connect With Me on my socials below
-- ⚡ Fun fact: You cannot cook one grain of rice, unless you are a singleton 😄
-- 😄 Pronouns: He/Him
+# Mitch Chanza's GitHub Profile
+![Profile picture of Mitch Chanza](https://avatars.githubusercontent.com/u/66210356?v=4)
+
+## Introduction
+Hi there! I'm Mitch Chanza, a software developer with over 8 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
+
+## Current Projects
+I'm currently working on the Atoria CSS framework, an open source project that makes it easy to create beautiful, responsive websites. You can check out the project page here to learn more.
 
 ## Tech Stack
-in my 7+ years in the software space i have managed to learn and master the following tech stacks:
-1. PHP
-2. Python
-3. Java
-4. C#
-5. C++
-6. Typescript - picked up this language 3 years ago.
-7. Rust - one of my favorite system programimg language
-8. Angular - this was my first frontend framework to learn and master
-9. Vuejs
-10. NuxJs - My Go to framework for simple and complex projects 
-11. NestJs - The home of Typescript api development
-12. NexJs
-13. React - one of my favorite frontend tools i enjoy working with
-14. React Native
-15. Flutter
-16. Ionic
-17. GraphQl
-18. Prisma
-19. Mysql
-20. Docker
-21. Linux server admin
-22. AWS
-23. TailwindCss
+Here are some of the technologies I've mastered over the years:
 
-## Recent Blogs
-am currently working on a 7 part blog post on Dev Community as outlined below:
+- PHP
+- Python
+- Java
+- C#
+- C++
+- Typescript
+- Rust
+- Angular
+- Vue.js
+- Nuxt.js
+- Nest.js
+- Next.js
+- React
+- React Native
+- Flutter
+- Ionic
+- GraphQL
+- Prisma
+- MySQL
+- Docker
+- Linux server administration
+- AWS 
+- Tailwind CSS
 
-![1_YbcWKaWi7QqR0bKafpE1Dw](https://user-images.githubusercontent.com/66210356/207032713-9ac32239-9957-4dc0-a537-a57f71f0fa15.png)
+I've used these technologies in various projects, ranging from small websites to large-scale applications. If you'd like to learn more about my experience with a specific technology, feel free to reach out to me!
 
-- [x] [Part 1: Setup GraphQL And firebase Functions](https://dev.to/mitch1009/how-to-create-a-nodejs-express-and-graphql-api-1nnh)
-- [ ] Part 2: Adding Endpoints (Mutations and Queries ) for basic firebase firestore/storage onnection
-- [ ] Part 3: Authentication and Athorization module using firebase Admin SDK
-- [ ] Part 4: Extend The API to use Prisma ORM or any other DB system apart from Firebase
+# Dev Community Blog
+I'm currently working on a 7-part blog post series on Dev Community that covers how to create a Node.js, Express, and GraphQL API using Firebase, Prisma, and other tools. Here's the status of each part:
 
-- [ ] Part 5: Add subscriptions and Websockets support
-- [ ] Part 6: Add unit or automated testing 
+ - [x] Part 1: Setup GraphQL and Firebase Functions
+ - [ ] Part 2: Adding Endpoints (Mutations and Queries) for Basic Firebase Firestore/Storage Connection
+ - [ ] Part 3: Authentication and Authorization Module using Firebase Admin SDK
+ - [ ] Part 4: Extend the API to Use Prisma ORM or any other DB System Apart from Firebase
+ - [ ] Part 5: Add Subscriptions and Websockets Support
+ - [ ]  Part 6: Add Unit or Automated Testing
+ - [ ] Part 7: Deploy the API for Public Access (Monetization and Promotion of the API)
+ 
+I'll update this list as I complete each part, so be sure to check back later for updates!
 
-- [ ] Part 7: Deploy the API for public access (Monetization and promotion of the API)
+# Connect with Me
+If you'd like to connect with me or learn more about my work, you can find me on the following platforms:
 
+- [Facebook](https://facebook.com/mitch-inovate)
+- [LinkedIn](https://www.linkedin.com/in/mitch-chanza-331382192/)
+- [Dev Community](https://dev.to/mitch1009)
+- [GitHub](https://github.com/mitch1009)
+- [Twitter]([https://github.com/mitch1009](https://twitter.com/mitch_chanza))
 
-## Socials and contact information
-
-You can reach out to me on the following social platforms:
-
-
-| Platform                          | Username                               |
-|-----------------------------------|----------------------------------------|
-| FaceBook                          | [Mitch Innovate](https://www.facebook.com/profile.php?id=100075309825539)
-| LikedIn                           | [Mitch Chanza](https://www.linkedin.com/in/mitch-chanza-331382192/)                                   |
-| Dev Community                     | [mitch1009](https://dev.to/mitch1009/)                                   |
-| GitHub                            | [mitch1009](https://github.com/mitch1009)                                   |
-| Twitter                           | [@mitch_chanza](https://twitter.com/mitch_chanza)                                   |
-
-> **Email:** [dev@mitch.guru](mailto:dev@mitch.guru)
-
-
-> **Website:** https://mitch.guru - in development
+You can also reach me by email at [dev@mitch.guru](mailto:dev@mitch.guru.) Feel free to reach out if you have any questions or just want to chat!
