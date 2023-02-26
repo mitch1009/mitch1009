@@ -4,7 +4,7 @@
 Hi there! I'm Mitch Chanza, a software developer with over 8 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
 
 ## Current Projects
-I'm currently working on the Atoria CSS framework, an open source project that makes it easy to create beautiful, responsive websites. You can check out the project page here to learn more.
+I'm currently working on the Atoria CSS framework, an open source project that makes it easy to create beautiful, responsive websites. [You can check out the project page here to learn more](https://atoria.site).
 
 ## Tech Stack
 Here are some of the technologies I've mastered over the years:
@@ -55,6 +55,6 @@ If you'd like to connect with me or learn more about my work, you can find me on
 - [LinkedIn](https://www.linkedin.com/in/mitch-chanza-331382192/)
 - [Dev Community](https://dev.to/mitch1009)
 - [GitHub](https://github.com/mitch1009)
-- [Twitter]([https://github.com/mitch1009](https://twitter.com/mitch_chanza))
+- [Twitter](https://twitter.com/mitch_chanza)
 
 You can also reach me by email at [dev@mitch.guru](mailto:dev@mitch.guru.) Feel free to reach out if you have any questions or just want to chat!
