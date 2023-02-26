@@ -7,6 +7,30 @@
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
+in my 7+ years in the software space i have managed to learn and master the following tech stacks:
+1. PHP
+2. Python
+3. Java
+4. C#
+5. C++
+6. Typescript - picked up this language 3 years ago.
+7. Rust - one of my favorite system programimg language
+8. Angular - this was my first frontend framework to learn and master
+9. Vuejs
+10. NuxJs - My Go to framework for simple and complex projects 
+11. NestJs - The home of Typescript api development
+12. NexJs
+13. React - one of my favorite frontend tools i enjoy working with
+14. React Native
+15. Flutter
+16. Ionic
+17. GraphQl
+18. Prisma
+19. Mysql
+20. Docker
+21. Linux server admin
+22. AWS
+23. TailwindCss
 
 ## Recent Blogs
 am currently working on a 7 part blog post on Dev Community as outlined below:
