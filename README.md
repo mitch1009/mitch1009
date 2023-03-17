@@ -1,4 +1,4 @@
-# Hello And Welcome to my Profile
+# Hello And Welcome To my Profile
 
 ## Introduction
 Hi there! I'm Mitch Chanza, a software developer with over 8 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
