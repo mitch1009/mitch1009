@@ -1,4 +1,3 @@
-# Hello And Welcome To my Profile
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mitch1009)](https://git.io/awesome-stats-card)
 
 ## Introduction
