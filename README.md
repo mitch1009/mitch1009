@@ -6,32 +6,7 @@ Hi there! I'm Mitch Chanza, a software developer with over 7 years of experience
 ## Current Projects
 I'm currently working on the Atoria CSS framework, an open source project that makes it easy to create beautiful, responsive websites. [You can check out the project page here to learn more](https://atoria.site).
 
-## Tech Stack
-Here are some of the technologies I've mastered over the years:
-
-- PHP
-- Python
-- Java
-- C#
-- C++
-- Typescript
-- Rust
-- Angular
-- Vue.js
-- Nuxt.js
-- Nest.js
-- Next.js
-- React
-- React Native
-- Flutter
-- Ionic
-- GraphQL
-- Prisma
-- MySQL
-- Docker
-- Linux server administration
-- AWS 
-- Tailwind CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch1009)](https://github.com/mitch1009/github-readme-stats)
 
 I've used these technologies in various projects, ranging from small websites to large-scale applications. If you'd like to learn more about my experience with a specific technology, feel free to reach out to me!
 
