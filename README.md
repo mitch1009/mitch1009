@@ -1,7 +1,8 @@
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mitch1009)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://mistats.vercel.app/api?username=mitch1009&show_icons=true&theme=transparent)
+
 ![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&&layout=donut-vertical)
 
-[![Account](https://mistats-alfi.vercel.app/api/pin/?username=mitch1009&repo=mistats)](https://github.com/mitch1009/mistats)
+
 
 ## Introduction
 Hi there! I'm Mitch Chanza, a software developer with over 7 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
