@@ -5,7 +5,7 @@
 ## Introduction
 Hi there! I'm Mitch Chanza, a software developer with over 7 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
 ## Tech stack
-![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&hide_progress=true&langs_count=201)
+![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&hide_progress=false&langs_count=201)
 
 ## Current Projects
 I'm currently working on the Atoria CSS framework, an open source project that makes it easy to create beautiful, responsive websites. [You can check out the project page here to learn more](https://atoria.site).
