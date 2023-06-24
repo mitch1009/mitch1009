@@ -8,7 +8,7 @@ I'm currently working on the Atoria CSS framework, an open source project that m
 
 ## Tech stack
 ![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&langs_count=20)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mitch1009)](https://github.com/mitch1009/github-readme-stats)
+[![Harlok's wakatime stats](/mistats.vercel.app/api/top-langs/api/wakatime?username=mitch1009)](https://github.com/mitch1009/github-readme-stats)
 
 I've used these technologies in various projects, ranging from small websites to large-scale applications. If you'd like to learn more about my experience with a specific technology, feel free to reach out to me!
 
