@@ -1,12 +1,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mitch1009)](https://git.io/awesome-stats-card)
 ![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&&layout=donut-vertical)
 
-<a href="https://github.com/mitch1009/mistats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app](https://mistats.vercel.app/api/top-langs)/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/mitch10009/mistats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 ## Introduction
 Hi there! I'm Mitch Chanza, a software developer with over 7 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
 
