@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://mistats.vercel.app/api?username=mitch1009&show_icons=true&theme=transparent)
+![Mitch's GitHub stats](https://mistats.vercel.app/api?username=mitch1009&show_icons=true&theme=transparent)
 
 ![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&&layout=donut-vertical)
 
