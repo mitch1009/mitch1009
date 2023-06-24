@@ -1,5 +1,5 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mitch1009)](https://git.io/awesome-stats-card)
-![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&hide_progress=true&langs_count=10)
+![Top Langs](https://mistats.vercel.app/api/top-langs/?username=mitch1009&hide_progress=true&langs_count=11)
 
 [![Account](https://mistats.vercel.app/api/pin/?username=mitch1009&repo=mistats)](https://github.com/mitch1009/mistats)
 
