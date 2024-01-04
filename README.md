@@ -1,7 +1,6 @@
 <div style="display: flex;">
-  <a href="https://git.io/awesome-stats-card">
-<!--     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mitch1009" alt="My Awesome Stats" /> -->
-  </a>
+
+  <img src="https://github-readme-stats-ten-rust-77.vercel.app/api?username=mitch1009&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="stats Langs" />
   <img src="https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&hide_progress=false" alt="Top Langs" />
 </div>
 
