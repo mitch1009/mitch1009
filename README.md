@@ -3,6 +3,7 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitch1009&theme=github" alt="Top Langs" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitch1009&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mitch1009&theme=github&utcOffset=2"/>
 </div>
 
 
