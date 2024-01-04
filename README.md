@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-ten-rust-77.vercel.app/api?username=mitch1009&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Readme Card](https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=gslap)](https://github.com/mitch1009/slap)
+[![Readme Card](https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=slap)](https://github.com/mitch1009/slap)
 
 ## Introduction
 Hi there! I'm Mitch Chanza, a software developer with over 7 years of experience in various programming languages and technologies. I'm passionate about open source development and enjoy collaborating with other developers on GitHub.
