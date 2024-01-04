@@ -6,7 +6,7 @@
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitch1009&repo=gslap)](https://github.com/mitch1009/slap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitch1009&repo=slap)](https://github.com/mitch1009/slap)
 
 
 ## Introduction
