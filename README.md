@@ -1,7 +1,7 @@
 
-[![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mitch1009)](https://https://mitch.guru)
-[![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/0-profile-details.svg)](https://https://mitch1009)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mitch1009)](https://mitch.guru)
+[![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://mitch.guru) 
 
 
 
