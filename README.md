@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-ten-rust-77.vercel.app/api?username=mitch1009&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitch1009&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=github-readme-stats)](https://github.com/mitch1009/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitch1009&show_icons=true&bg_color=00000000)
 ## Introduction
