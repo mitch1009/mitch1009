@@ -7,6 +7,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitch1009&theme=github"/>
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitch1009&theme=github)
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitch1009&theme=github)
 
 ## Introduction
