@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=slap" alt="Top Langs" />
 </div>
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 
 ## Introduction
