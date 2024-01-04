@@ -2,11 +2,11 @@
 
   <img src="https://github-readme-stats-ten-rust-77.vercel.app/api?username=mitch1009&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="stats Langs" />
   <img src="https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&hide_progress=false" alt="Top Langs" />
-  <img src="https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=slap" alt="Top Langs" />
+  <img src="https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=config" alt="Top Langs" />
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitch1009&repo=slap)](https://github.com/mitch1009/slap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitch1009&repo=config)](https://github.com/mitch1009/config)
 
 
 ## Introduction
