@@ -1,7 +1,6 @@
 <div style="display:flex">
+  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mitch1009)](https://git.io/awesome-stats-card)
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch1009&hide_progress=false)
 </div>
