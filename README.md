@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats-ten-rust-77.vercel.app/api/pin/?username=mitch1009&repo=config" alt="Top Langs" />
 </div>
 
+![Top Langs](https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitch1009&repo=config)](https://github.com/mitch1009/config)
 
 
 ## Introduction
