@@ -6,8 +6,7 @@
 
 [![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/0-profile-details.svg)](https://https://mitch1009)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mitch1009)](https://mitch.guru)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch1009&size_weight=0.5&count_weight=0.5&lang_count=8)
-[![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://mitch.guru) 
+![Top Langs](https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&size_weight=0.5&count_weight=0.5&langs_count=4)
 
 
 
