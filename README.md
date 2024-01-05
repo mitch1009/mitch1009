@@ -8,7 +8,7 @@
 <div style="display:flex">
 <img src="https://streak-stats.demolab.com?user=mitch1009" alt="streak"/>
 
-<img src="https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&size_weight=0.5&count_weight=0.5&langs_count=4" alt="top languages"/>
+<img src="https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&size_weight=0.5&count_weight=0.5&langs_count=2" alt="top languages"/>
 </div>
 
 
