@@ -5,10 +5,11 @@
 
 
 [![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/0-profile-details.svg)](https://https://mitch1009)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mitch1009)](https://mitch.guru)
+<div style="display:flex">
+<img src="https://streak-stats.demolab.com?user=mitch1009" alt="streak"/>
 
-![Top Langs](https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&size_weight=0.5&count_weight=0.5&langs_count=4)
-
+<img src="https://github-readme-stats-ten-rust-77.vercel.app/api/top-langs/?username=mitch1009&size_weight=0.5&count_weight=0.5&langs_count=4" alt="top languages"/>
+</div>
 
 
 
