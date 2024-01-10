@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mitch Chanza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitch1009&label=Profile%20views&color=0e75b6&style=flat" alt="mitch1009" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/7fa069f3-e6f8-4636-9677-54a723c40e35.svg)](https://wakatime.com/@7fa069f3-e6f8-4636-9677-54a723c40e35)
 
 
 [![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/0-profile-details.svg)](https://https://mitch1009)
