@@ -1,9 +1,13 @@
 
 <a href="https://mitch.guru"><img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /></a>
 <h1 align="center">Hi 👋, I'm Mitch Chanza</h1>
-<div style="display:flex"><p align="left"> <img src="https://komarev.com/ghpvc/?username=mitch1009&label=Profile%20views&color=0e75b6&style=flat" alt="mitch1009" /> </p>
+<div style="display:flex">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitch1009&label=Profile%20views&color=0e75b6&style=flat" alt="mitch1009" /> </p>
+<a href="https://wakatime.com/@7fa069f3-e6f8-4636-9677-54a723c40e35">
+<img  src="https://wakatime.com/badge/user/7fa069f3-e6f8-4636-9677-54a723c40e35.svg"/>
+</a>
 
-<p>[![wakatime](https://wakatime.com/badge/user/7fa069f3-e6f8-4636-9677-54a723c40e35.svg)](https://wakatime.com/@7fa069f3-e6f8-4636-9677-54a723c40e35)</p></div>
+</div>
 
 
 [![](https://raw.githubusercontent.com/mitch1009/mitch1009/main/profile-summary-card-output/github/0-profile-details.svg)](https://https://mitch1009)
